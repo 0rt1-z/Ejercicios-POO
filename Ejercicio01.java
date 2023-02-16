@@ -1,5 +1,7 @@
 import java.util.Scanner;                                   //Se importa el package scanner de java
 
+/*1. Escribir un programa que indique cuál es el mayor de cuatro números
+    enteros.*/
 public class Ejercicio01 {
     public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);      //Declaracion de un objeto para el ingreso de datos

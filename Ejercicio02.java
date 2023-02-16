@@ -1,4 +1,6 @@
-import java.util.Scanner;                                   //Se importa el package scanner de java
+
+/*Escribir un programa que indique si un número es múltiplo de 6*//
+import java.util.Scanner;
 
 public class Ejercicio02 {
     public static void main(String[] args) {

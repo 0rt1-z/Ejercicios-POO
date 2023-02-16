@@ -1,3 +1,6 @@
+
+/*3. Escribir un programa que indique ni un número es par o impar.*/
+
 import java.util.Scanner;                           //Se importa el package scanner de java
 
 public class Ejercicio03 {
